@@ -28,13 +28,13 @@ gem 'jbuilder', '2.5.0'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-# Use Twitter Bootstrap library for front-end UI and layout
+# Use Twitter Bootsrap library for front-end UI and layout
 gem 'bootstrap-sass', '3.3.7'
 
-#use Font Awesome sass gem for adding icons
+# Use Font Awesome sass gem for adding icons
 gem 'font-awesome-sass', '4.6.2'
 
-#Use Hirb for better database table display in console
+# Use Hirb for better database table display in console
 gem 'hirb', '0.7.3'
 
 group :development, :test do
